@@ -1,0 +1,138 @@
+{
+    "About": {
+        "paragraph": "At Craft Packaging, we work diligently every step of the way. Not only we will deliver your project complete and ready to go in a matter of weeks, but we have fun while doing so! Our creative team is always ready to take on an a new challenge.",
+        "Why": [
+            "Completely customised designs.",
+            "Collapsible and easy to pack.",
+            "Quality designs & materials.",
+            "Plastic-free,easily recyclable.",
+            "Highly visible and easily portable"
+
+        ],
+        "Why2": [
+            "Stringent quality control.",
+            "Sustainable business practices.",
+            "Reliable,consistent,trustworthy.",
+            "Team with sheer experience.",
+            "Lower cost and greater value."
+        ]
+    },
+    "Features": [
+        {
+            "icon": "require('../files/ideas.svg')",
+            "title": "Your Rough Idea", 
+            "description": "Our custom pos cardboard style options allow you to customize your pos cardboard and even develop new style"
+            
+        },
+        {
+            "icon": "require('../files/design.svg')",
+            "title": "We Design",
+            "description": "Samples come out to let the customer to confirm, when will be allowed after Impact batch production"
+        },
+        {
+            "icon": "require('../files/manufacture.svg')",
+            "title": "Manufacturing", 
+            "description": "Impact handles the entire manufacturing and printing process which is done by our local in-house service"
+            
+        },
+        {
+            "icon": "require('../files/deliver.svg')",
+            "title": "Delivery", 
+            "description": "Your custom printed packaging delivers within 15 days, fully ready to ship your product out to customers"
+            
+        }
+    ],
+    "Services": [{
+            "icon": "fa fa-users",
+            "name": "Discovery and consulting",
+            "text": "We help you analyzing your Campaing theme,Target audience,recommend on things like Size and configurations,Material options."
+        },
+        {
+            "icon": "fa fa-paint-brush",
+            "name": "Designing",
+            "text": " We provide professional engineered structure with aesthically designed graphics will render an 3D image of your product for review."
+        },
+        {
+            "icon": "fa fa-wrench",
+            "name": "Prototyping",
+            "text": "We offer physical prototype to help you visualize your unique retail display or packaging before finalizing your order."
+        },
+        {
+            "icon": "fa fa-print",
+            "name": "Printing",
+            "text": "We use advanced Digital and Offset Printing for precise and vibrant print quality."
+        },
+        {
+            "icon": "fa fa-cogs",
+            "name": "Manufacturing",
+            "text": "We have a dedicated plant with state of art facility, giving us control over cost and timeline of each project."
+        },
+        {
+            "icon": "fa fa-truck",
+            "name": "Delivery",
+            "text": "We ensure delivery of your package to its final destination with the help of our logistics partners."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "Craft Packaging, Gala No 2, Shubh Vastu, Near Expert Motor Driving School Opp. Narayan Apt,Off, Tembhi Naka, Thane West, Maharashtra 400601.",
+        "phone": "+91 7021109894",
+        "email": "craftpackaging@gmail.com",
+        "facebook": "https://www.facebook.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com",
+        "instagram":"https://www.instagram.com/valueaddition18/"
+    }
+}
